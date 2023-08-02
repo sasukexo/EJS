@@ -1,0 +1,29 @@
+#git ignore
+echo "node_modules" >> .gitignore
+#ignore modules
+echo "node_modules" >> .gitignore
+echo "bower_components" >> .gitignore
+echo "dist" >> .gitignore
+echo "tmp" >> .gitignore
+echo "vendor" >> .gitignore
+echo "npm-debug.log" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "package-lock.json" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+echo "yarn.lock" >> .gitignore
+echo "yarn-error.log" >> .gitignore
+
+# .gitignore
+node_modules
