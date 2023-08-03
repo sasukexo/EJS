@@ -1,1 +1,1 @@
-Embedded JS
+#EJS
